@@ -1,0 +1,4 @@
+1.	Dados contém valores brutos, e não oferecem um significado real. 
+2.	A informação é um dado que possui significado ou uso.  
+3.	É uma maneira de se organizar os dados, foi a forma que deu origem aos bancos de dados. 
+4.	Um banco de dados é um deposito de dados armazenados com objetivo de registrar e armazenar dados. 

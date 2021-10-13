@@ -1,0 +1,4 @@
+1) é um modelo de dados abstrato, que descreve a estrutura de um banco de dados, independente de um SGBD especifico. 
+2) é um modelo de dados que representa a estrutura de um banco de dados na percepcao do usuario do SGBD.
+3) é construido com base um modelo logico definido, com intuito de ser aplicado sobre um SGBD. onde sera utilizado
+   a linguagem de definicicao de dados do SGBD para construir o banco de dados com base no codigo SQL gerado. 

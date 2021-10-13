@@ -1,0 +1,21 @@
+CREATE TABLE "produto" (
+"id" INTEGER NOT NULL,
+"nome" varchar(40) NOT NULL,
+"valor" varchar(10) NOT NULL,
+PRIMARY KEY("ID" AUTOINCREMENT)
+)
+
+Create--
+INSERT INTO produto (nome, valor) 
+VALUES('Arroz','10,00')
+
+Read--
+SELECT * FROM produto
+
+
+UPDATE produto
+SET valor = '8,00'
+WHERE id = 1
+
+DELETE FROM produto
+WHERE id = 1

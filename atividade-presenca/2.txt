@@ -1,0 +1,2 @@
+1.	E um sistema em que os dados são organizados separadamente, podendo existir redundância (dois dados iguais). 
+2.	E um sistema que possui a unificação dos arquivos, eliminando a possibilidade de redundância entre eles. 

@@ -1,0 +1,7 @@
+a) conjunto de objetos reais modelados que se deseja manter informacoes. 
+b) o conjunto de associacoes entre ocorrencias de entidades. 
+c) dado que esta ligado a cada ocorrencia de uma entidade ou de um relacionamento. 
+d) o conjunto de valores que um determinado atributo possui. 
+e) conceito que permite atribuir propriedades particulares a um subconjunto das ocorrencias de uma entidade.
+f) e quando o ralcionamento com cardinalidade N:N entre duas enteidades precisa se relacionar com uma terceira entidade.
+g) define quantas ocorrencias de uma entidade participam no minimo e no maximo do relacionamento.

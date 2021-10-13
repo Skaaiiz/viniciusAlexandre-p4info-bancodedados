@@ -1,0 +1,19 @@
+1. cardinalidade maxima: entidade EMPREGADO tem cardinalidade maxima 1 no relacionamento LOTACAO
+   o que significa que uma ocorrencia de EMPREGADO pode estar associada a no maximo uma ocorrencia de DEPARTAMENTO
+   a entidade DEPARTAMENTO tem cardinalidade maxima de 120 no relacionamento LOTACAO
+   o que significa que uma ocorrencia de DEPARTAMENTO pode estar associada a no maximo 120 ocorrencias de EMPREGADO
+
+   define o maximo de ocorrencias de uma entendidade em um relacionamento
+
+   cardinalidade minima: alocacao de empregados a mesa. Aqui, a cardinalidade minima e usada para especificar que
+   cada empregado deve ter a ele alocada obrigatoriamente uma mesa (cardinalidade minima 1) e que uma mesa pode existir
+   sem que a ela esteja alocada em um empregado (cardinalidade minima 0)
+
+   define o minimo de ocorrencias de uma entendidade em um relacionamento.
+
+2. a entidade ALUNO tem cardinalidade 1:1 no relacionamento CURSANDO o que significa que cada ALUNO so pode estar
+   associada a uma entidade de CURSO.
+3. a entidade LIVRO tem cardinalidade 1:n no relacionamento TAMANHO o que significa que cada LIVRO pode estar associado
+   a varias entidades de PAGINA
+4. varias entidades ALUNO tem cardinalidade n:n no relacionamento MATRICULADO o que significa que varios ALUNOS
+   podem estar associados a varias entidades de DISCIPLINA. 	

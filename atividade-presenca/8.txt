@@ -1,0 +1,23 @@
+1.Uma tabela e um conjunto nao ordenado de linhas (tuplas) onde cada linha e composta por uma serie de campos (atributos).
+cada campo e identificado por um nome e o conjunto de campos homonimos de todas as linhas de uma tabela formam uma coluna.
+
+2. e a coluna ou combinacao de coluna cujos valores distinguem uma linha das demais dentro de uma tabela, obedecendo
+   a regra de unicidade de valores nas colunas que compoem a chave.
+
+3. e a coluna ou combinacao de colunas, cujo valores aparecem necessariamente na chave primaria de uma tabela,
+   é o mecanismo que permite a implementacao de relacionamentos em um banco de dados relacional.
+
+4. uma chave que nao foi criada como chave primaria, mas que e utilizada para identificar de forma exclusiva os
+   registros de uma tabela. 
+
+5. os tipos de valores que podem aparecer em cada coluna. 
+
+6. conjunto de processos que asseguram os valores aceitaveis que cada coluna pode ter.
+
+7. informa se a coluna e obrigatoria ou opcional, ou seja, se e preciso inserir ou nao um valor na coluna.
+
+8. e o que impede que uma chave primaria se repita. 
+
+9. uma chave estrangueira de uma relacao tem que coincidir com uma chave primaria da sua tabela "pai" a que a chave
+
+   estrangeira se refere.

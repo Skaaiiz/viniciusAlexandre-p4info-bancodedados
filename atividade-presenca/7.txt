@@ -1,0 +1,2 @@
+Representa casos em que dados desatualizados devem ser mantidos pelo banco de dados, por conta de alguma necessidade da aplicação,
+como a apresentacao do historico de informações durante o tempo e necessario se considerar o aspecto temporal. 
